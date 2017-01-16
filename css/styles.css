@@ -1,0 +1,33 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.header {
+  width: 100%;
+  background-color: #D3D6DB;
+  display: block;
+  padding-left: 15px;
+  vertical-align: middle;
+  height: 50px;
+}
+
+span.nav {
+  float: right;
+  padding-right:40px;
+  font-size: 24px;
+}
+
+.slider {
+  background-image: url(https://photogrist.com/wp-content/uploads/2016/01/Eva-Kolenko.jpg);
+  height: 400px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.italicize {
+  font-style: italic;
+}
+
+.lower {
+  padding: 0px 25px 0px 25px;
+}
