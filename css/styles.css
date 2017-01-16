@@ -1,14 +1,17 @@
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .header {
   width: 100%;
-  background-color: #D3D6DB;
   display: block;
   padding-left: 15px;
   vertical-align: middle;
   height: 50px;
+}
+
+.social {
+  padding-left: 10px;
 }
 
 span.nav {
@@ -20,8 +23,6 @@ span.nav {
 .slider {
   background-image: url(https://photogrist.com/wp-content/uploads/2016/01/Eva-Kolenko.jpg);
   height: 400px;
-  text-align: center;
-  color: #ffffff;
 }
 
 .italicize {
@@ -29,5 +30,10 @@ span.nav {
 }
 
 .lower {
-  padding: 0px 25px 0px 25px;
+  padding: 0px 35px 0px 35px;
+  line-height: 1.5;
+}
+
+.important {
+  font-weight: 600;
 }
